@@ -26,11 +26,11 @@
 
 ##  Quick Links
 
-> - [ Features](#-features)
-> - [ Getting Started](#-getting-started)
->   - [ Installation](#-installation)
->   - [ Running sql-editor](#-running-sql-editor)
->   - [ Creating executable](#-reating-executable)
+> - [ Features](#features)
+> - [ Getting Started](#getting-started)
+>   - [ Installation](#installation)
+>   - [ Running sql-editor](#running-sql-editor)
+>   - [ Creating executable](#reating-executable)
 
 ---
 
